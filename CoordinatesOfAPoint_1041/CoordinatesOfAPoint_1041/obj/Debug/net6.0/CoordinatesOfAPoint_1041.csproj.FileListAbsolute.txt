@@ -1,0 +1,15 @@
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\CoordinatesOfAPoint_1041\CoordinatesOfAPoint_1041\bin\Debug\net6.0\CoordinatesOfAPoint_1041.exe
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\CoordinatesOfAPoint_1041\CoordinatesOfAPoint_1041\bin\Debug\net6.0\CoordinatesOfAPoint_1041.deps.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\CoordinatesOfAPoint_1041\CoordinatesOfAPoint_1041\bin\Debug\net6.0\CoordinatesOfAPoint_1041.runtimeconfig.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\CoordinatesOfAPoint_1041\CoordinatesOfAPoint_1041\bin\Debug\net6.0\CoordinatesOfAPoint_1041.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\CoordinatesOfAPoint_1041\CoordinatesOfAPoint_1041\bin\Debug\net6.0\CoordinatesOfAPoint_1041.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\CoordinatesOfAPoint_1041\CoordinatesOfAPoint_1041\obj\Debug\net6.0\CoordinatesOfAPoint_1041.csproj.AssemblyReference.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\CoordinatesOfAPoint_1041\CoordinatesOfAPoint_1041\obj\Debug\net6.0\CoordinatesOfAPoint_1041.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\CoordinatesOfAPoint_1041\CoordinatesOfAPoint_1041\obj\Debug\net6.0\CoordinatesOfAPoint_1041.AssemblyInfoInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\CoordinatesOfAPoint_1041\CoordinatesOfAPoint_1041\obj\Debug\net6.0\CoordinatesOfAPoint_1041.AssemblyInfo.cs
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\CoordinatesOfAPoint_1041\CoordinatesOfAPoint_1041\obj\Debug\net6.0\CoordinatesOfAPoint_1041.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\CoordinatesOfAPoint_1041\CoordinatesOfAPoint_1041\obj\Debug\net6.0\CoordinatesOfAPoint_1041.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\CoordinatesOfAPoint_1041\CoordinatesOfAPoint_1041\obj\Debug\net6.0\refint\CoordinatesOfAPoint_1041.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\CoordinatesOfAPoint_1041\CoordinatesOfAPoint_1041\obj\Debug\net6.0\CoordinatesOfAPoint_1041.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\CoordinatesOfAPoint_1041\CoordinatesOfAPoint_1041\obj\Debug\net6.0\CoordinatesOfAPoint_1041.genruntimeconfig.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\CoordinatesOfAPoint_1041\CoordinatesOfAPoint_1041\obj\Debug\net6.0\ref\CoordinatesOfAPoint_1041.dll

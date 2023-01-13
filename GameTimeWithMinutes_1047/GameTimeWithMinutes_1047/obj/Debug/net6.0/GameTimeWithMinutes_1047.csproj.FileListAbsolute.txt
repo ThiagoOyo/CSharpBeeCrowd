@@ -1,0 +1,15 @@
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\GameTimeWithMinutes_1047\GameTimeWithMinutes_1047\bin\Debug\net6.0\GameTimeWithMinutes_1047.exe
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\GameTimeWithMinutes_1047\GameTimeWithMinutes_1047\bin\Debug\net6.0\GameTimeWithMinutes_1047.deps.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\GameTimeWithMinutes_1047\GameTimeWithMinutes_1047\bin\Debug\net6.0\GameTimeWithMinutes_1047.runtimeconfig.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\GameTimeWithMinutes_1047\GameTimeWithMinutes_1047\bin\Debug\net6.0\GameTimeWithMinutes_1047.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\GameTimeWithMinutes_1047\GameTimeWithMinutes_1047\bin\Debug\net6.0\GameTimeWithMinutes_1047.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\GameTimeWithMinutes_1047\GameTimeWithMinutes_1047\obj\Debug\net6.0\GameTimeWithMinutes_1047.csproj.AssemblyReference.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\GameTimeWithMinutes_1047\GameTimeWithMinutes_1047\obj\Debug\net6.0\GameTimeWithMinutes_1047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\GameTimeWithMinutes_1047\GameTimeWithMinutes_1047\obj\Debug\net6.0\GameTimeWithMinutes_1047.AssemblyInfoInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\GameTimeWithMinutes_1047\GameTimeWithMinutes_1047\obj\Debug\net6.0\GameTimeWithMinutes_1047.AssemblyInfo.cs
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\GameTimeWithMinutes_1047\GameTimeWithMinutes_1047\obj\Debug\net6.0\GameTimeWithMinutes_1047.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\GameTimeWithMinutes_1047\GameTimeWithMinutes_1047\obj\Debug\net6.0\GameTimeWithMinutes_1047.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\GameTimeWithMinutes_1047\GameTimeWithMinutes_1047\obj\Debug\net6.0\refint\GameTimeWithMinutes_1047.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\GameTimeWithMinutes_1047\GameTimeWithMinutes_1047\obj\Debug\net6.0\GameTimeWithMinutes_1047.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\GameTimeWithMinutes_1047\GameTimeWithMinutes_1047\obj\Debug\net6.0\GameTimeWithMinutes_1047.genruntimeconfig.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\GameTimeWithMinutes_1047\GameTimeWithMinutes_1047\obj\Debug\net6.0\ref\GameTimeWithMinutes_1047.dll

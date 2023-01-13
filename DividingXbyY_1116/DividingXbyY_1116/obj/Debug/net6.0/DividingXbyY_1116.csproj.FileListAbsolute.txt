@@ -1,0 +1,15 @@
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DividingXbyY_1116\DividingXbyY_1116\bin\Debug\net6.0\DividingXbyY_1116.exe
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DividingXbyY_1116\DividingXbyY_1116\bin\Debug\net6.0\DividingXbyY_1116.deps.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DividingXbyY_1116\DividingXbyY_1116\bin\Debug\net6.0\DividingXbyY_1116.runtimeconfig.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DividingXbyY_1116\DividingXbyY_1116\bin\Debug\net6.0\DividingXbyY_1116.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DividingXbyY_1116\DividingXbyY_1116\bin\Debug\net6.0\DividingXbyY_1116.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DividingXbyY_1116\DividingXbyY_1116\obj\Debug\net6.0\DividingXbyY_1116.csproj.AssemblyReference.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DividingXbyY_1116\DividingXbyY_1116\obj\Debug\net6.0\DividingXbyY_1116.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DividingXbyY_1116\DividingXbyY_1116\obj\Debug\net6.0\DividingXbyY_1116.AssemblyInfoInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DividingXbyY_1116\DividingXbyY_1116\obj\Debug\net6.0\DividingXbyY_1116.AssemblyInfo.cs
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DividingXbyY_1116\DividingXbyY_1116\obj\Debug\net6.0\DividingXbyY_1116.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DividingXbyY_1116\DividingXbyY_1116\obj\Debug\net6.0\DividingXbyY_1116.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DividingXbyY_1116\DividingXbyY_1116\obj\Debug\net6.0\refint\DividingXbyY_1116.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DividingXbyY_1116\DividingXbyY_1116\obj\Debug\net6.0\DividingXbyY_1116.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DividingXbyY_1116\DividingXbyY_1116\obj\Debug\net6.0\DividingXbyY_1116.genruntimeconfig.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DividingXbyY_1116\DividingXbyY_1116\obj\Debug\net6.0\ref\DividingXbyY_1116.dll

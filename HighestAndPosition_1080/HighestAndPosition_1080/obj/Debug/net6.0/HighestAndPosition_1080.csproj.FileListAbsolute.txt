@@ -1,0 +1,15 @@
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\HighestAndPosition_1080\HighestAndPosition_1080\bin\Debug\net6.0\HighestAndPosition_1080.exe
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\HighestAndPosition_1080\HighestAndPosition_1080\bin\Debug\net6.0\HighestAndPosition_1080.deps.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\HighestAndPosition_1080\HighestAndPosition_1080\bin\Debug\net6.0\HighestAndPosition_1080.runtimeconfig.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\HighestAndPosition_1080\HighestAndPosition_1080\bin\Debug\net6.0\HighestAndPosition_1080.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\HighestAndPosition_1080\HighestAndPosition_1080\bin\Debug\net6.0\HighestAndPosition_1080.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\HighestAndPosition_1080.csproj.AssemblyReference.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\HighestAndPosition_1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\HighestAndPosition_1080.AssemblyInfoInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\HighestAndPosition_1080.AssemblyInfo.cs
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\HighestAndPosition_1080.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\HighestAndPosition_1080.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\refint\HighestAndPosition_1080.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\HighestAndPosition_1080.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\HighestAndPosition_1080.genruntimeconfig.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\HighestAndPosition_1080\HighestAndPosition_1080\obj\Debug\net6.0\ref\HighestAndPosition_1080.dll

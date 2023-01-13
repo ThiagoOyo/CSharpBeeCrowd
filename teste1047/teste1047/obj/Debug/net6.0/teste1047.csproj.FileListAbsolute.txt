@@ -1,0 +1,15 @@
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\teste1047\teste1047\bin\Debug\net6.0\teste1047.exe
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\teste1047\teste1047\bin\Debug\net6.0\teste1047.deps.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\teste1047\teste1047\bin\Debug\net6.0\teste1047.runtimeconfig.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\teste1047\teste1047\bin\Debug\net6.0\teste1047.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\teste1047\teste1047\bin\Debug\net6.0\teste1047.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\teste1047\teste1047\obj\Debug\net6.0\teste1047.csproj.AssemblyReference.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\teste1047\teste1047\obj\Debug\net6.0\teste1047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\teste1047\teste1047\obj\Debug\net6.0\teste1047.AssemblyInfoInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\teste1047\teste1047\obj\Debug\net6.0\teste1047.AssemblyInfo.cs
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\teste1047\teste1047\obj\Debug\net6.0\teste1047.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\teste1047\teste1047\obj\Debug\net6.0\teste1047.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\teste1047\teste1047\obj\Debug\net6.0\refint\teste1047.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\teste1047\teste1047\obj\Debug\net6.0\teste1047.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\teste1047\teste1047\obj\Debug\net6.0\teste1047.genruntimeconfig.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\teste1047\teste1047\obj\Debug\net6.0\ref\teste1047.dll

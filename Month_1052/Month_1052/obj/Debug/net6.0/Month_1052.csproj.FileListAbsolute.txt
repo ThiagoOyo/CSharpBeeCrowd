@@ -1,0 +1,15 @@
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Month_1052\Month_1052\bin\Debug\net6.0\Month_1052.exe
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Month_1052\Month_1052\bin\Debug\net6.0\Month_1052.deps.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Month_1052\Month_1052\bin\Debug\net6.0\Month_1052.runtimeconfig.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Month_1052\Month_1052\bin\Debug\net6.0\Month_1052.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Month_1052\Month_1052\bin\Debug\net6.0\Month_1052.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Month_1052\Month_1052\obj\Debug\net6.0\Month_1052.csproj.AssemblyReference.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Month_1052\Month_1052\obj\Debug\net6.0\Month_1052.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Month_1052\Month_1052\obj\Debug\net6.0\Month_1052.AssemblyInfoInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Month_1052\Month_1052\obj\Debug\net6.0\Month_1052.AssemblyInfo.cs
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Month_1052\Month_1052\obj\Debug\net6.0\Month_1052.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Month_1052\Month_1052\obj\Debug\net6.0\Month_1052.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Month_1052\Month_1052\obj\Debug\net6.0\refint\Month_1052.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Month_1052\Month_1052\obj\Debug\net6.0\Month_1052.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Month_1052\Month_1052\obj\Debug\net6.0\Month_1052.genruntimeconfig.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Month_1052\Month_1052\obj\Debug\net6.0\ref\Month_1052.dll

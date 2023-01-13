@@ -1,0 +1,15 @@
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SequenceOfNumbersAndSum_1101\SequenceOfNumbersAndSum_1101\bin\Debug\net6.0\SequenceOfNumbersAndSum_1101.exe
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SequenceOfNumbersAndSum_1101\SequenceOfNumbersAndSum_1101\bin\Debug\net6.0\SequenceOfNumbersAndSum_1101.deps.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SequenceOfNumbersAndSum_1101\SequenceOfNumbersAndSum_1101\bin\Debug\net6.0\SequenceOfNumbersAndSum_1101.runtimeconfig.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SequenceOfNumbersAndSum_1101\SequenceOfNumbersAndSum_1101\bin\Debug\net6.0\SequenceOfNumbersAndSum_1101.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SequenceOfNumbersAndSum_1101\SequenceOfNumbersAndSum_1101\bin\Debug\net6.0\SequenceOfNumbersAndSum_1101.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SequenceOfNumbersAndSum_1101\SequenceOfNumbersAndSum_1101\obj\Debug\net6.0\SequenceOfNumbersAndSum_1101.csproj.AssemblyReference.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SequenceOfNumbersAndSum_1101\SequenceOfNumbersAndSum_1101\obj\Debug\net6.0\SequenceOfNumbersAndSum_1101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SequenceOfNumbersAndSum_1101\SequenceOfNumbersAndSum_1101\obj\Debug\net6.0\SequenceOfNumbersAndSum_1101.AssemblyInfoInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SequenceOfNumbersAndSum_1101\SequenceOfNumbersAndSum_1101\obj\Debug\net6.0\SequenceOfNumbersAndSum_1101.AssemblyInfo.cs
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SequenceOfNumbersAndSum_1101\SequenceOfNumbersAndSum_1101\obj\Debug\net6.0\SequenceOfNumbersAndSum_1101.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SequenceOfNumbersAndSum_1101\SequenceOfNumbersAndSum_1101\obj\Debug\net6.0\SequenceOfNumbersAndSum_1101.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SequenceOfNumbersAndSum_1101\SequenceOfNumbersAndSum_1101\obj\Debug\net6.0\refint\SequenceOfNumbersAndSum_1101.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SequenceOfNumbersAndSum_1101\SequenceOfNumbersAndSum_1101\obj\Debug\net6.0\SequenceOfNumbersAndSum_1101.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SequenceOfNumbersAndSum_1101\SequenceOfNumbersAndSum_1101\obj\Debug\net6.0\SequenceOfNumbersAndSum_1101.genruntimeconfig.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SequenceOfNumbersAndSum_1101\SequenceOfNumbersAndSum_1101\obj\Debug\net6.0\ref\SequenceOfNumbersAndSum_1101.dll

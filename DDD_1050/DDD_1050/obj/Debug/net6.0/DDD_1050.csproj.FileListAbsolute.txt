@@ -1,0 +1,15 @@
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DDD_1050\DDD_1050\bin\Debug\net6.0\DDD_1050.exe
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DDD_1050\DDD_1050\bin\Debug\net6.0\DDD_1050.deps.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DDD_1050\DDD_1050\bin\Debug\net6.0\DDD_1050.runtimeconfig.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DDD_1050\DDD_1050\bin\Debug\net6.0\DDD_1050.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DDD_1050\DDD_1050\bin\Debug\net6.0\DDD_1050.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.csproj.AssemblyReference.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.AssemblyInfoInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.AssemblyInfo.cs
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DDD_1050\DDD_1050\obj\Debug\net6.0\refint\DDD_1050.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DDD_1050\DDD_1050\obj\Debug\net6.0\DDD_1050.genruntimeconfig.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\DDD_1050\DDD_1050\obj\Debug\net6.0\ref\DDD_1050.dll

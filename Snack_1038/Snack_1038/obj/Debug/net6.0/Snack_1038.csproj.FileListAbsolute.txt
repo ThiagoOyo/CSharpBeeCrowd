@@ -1,0 +1,15 @@
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Snack_1038\Snack_1038\bin\Debug\net6.0\Snack_1038.exe
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Snack_1038\Snack_1038\bin\Debug\net6.0\Snack_1038.deps.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Snack_1038\Snack_1038\bin\Debug\net6.0\Snack_1038.runtimeconfig.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Snack_1038\Snack_1038\bin\Debug\net6.0\Snack_1038.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Snack_1038\Snack_1038\bin\Debug\net6.0\Snack_1038.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Snack_1038\Snack_1038\obj\Debug\net6.0\Snack_1038.csproj.AssemblyReference.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Snack_1038\Snack_1038\obj\Debug\net6.0\Snack_1038.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Snack_1038\Snack_1038\obj\Debug\net6.0\Snack_1038.AssemblyInfoInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Snack_1038\Snack_1038\obj\Debug\net6.0\Snack_1038.AssemblyInfo.cs
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Snack_1038\Snack_1038\obj\Debug\net6.0\Snack_1038.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Snack_1038\Snack_1038\obj\Debug\net6.0\Snack_1038.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Snack_1038\Snack_1038\obj\Debug\net6.0\refint\Snack_1038.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Snack_1038\Snack_1038\obj\Debug\net6.0\Snack_1038.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Snack_1038\Snack_1038\obj\Debug\net6.0\Snack_1038.genruntimeconfig.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Snack_1038\Snack_1038\obj\Debug\net6.0\ref\Snack_1038.dll

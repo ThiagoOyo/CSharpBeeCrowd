@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jECui7t2bnJgEbWd8IjH3nzl7xCeqBy5uY8Jn4+m0ZCqbHbCGo1aRMGpZaebhQ0A8sImh9P35+XTn732TJA98g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thiago Oyo\\Desktop\\Dev\\SharpCoders\\Exercícios\\Beecrowd\\ThemeTemplate\\ThemeTemplate\\ThemeTemplate.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.1\\microsoft.windows.sdk.buildtools.10.0.22621.1.nupkg.sha512"
+  ],
+  "logs": []
+}

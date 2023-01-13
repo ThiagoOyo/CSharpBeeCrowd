@@ -1,0 +1,15 @@
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SumOfConsecutiveOddNumbers1_1071\SumOfConsecutiveOddNumbers1_1071\bin\Debug\net6.0\SumOfConsecutiveOddNumbers1_1071.exe
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SumOfConsecutiveOddNumbers1_1071\SumOfConsecutiveOddNumbers1_1071\bin\Debug\net6.0\SumOfConsecutiveOddNumbers1_1071.deps.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SumOfConsecutiveOddNumbers1_1071\SumOfConsecutiveOddNumbers1_1071\bin\Debug\net6.0\SumOfConsecutiveOddNumbers1_1071.runtimeconfig.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SumOfConsecutiveOddNumbers1_1071\SumOfConsecutiveOddNumbers1_1071\bin\Debug\net6.0\SumOfConsecutiveOddNumbers1_1071.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SumOfConsecutiveOddNumbers1_1071\SumOfConsecutiveOddNumbers1_1071\bin\Debug\net6.0\SumOfConsecutiveOddNumbers1_1071.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SumOfConsecutiveOddNumbers1_1071\SumOfConsecutiveOddNumbers1_1071\obj\Debug\net6.0\SumOfConsecutiveOddNumbers1_1071.csproj.AssemblyReference.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SumOfConsecutiveOddNumbers1_1071\SumOfConsecutiveOddNumbers1_1071\obj\Debug\net6.0\SumOfConsecutiveOddNumbers1_1071.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SumOfConsecutiveOddNumbers1_1071\SumOfConsecutiveOddNumbers1_1071\obj\Debug\net6.0\SumOfConsecutiveOddNumbers1_1071.AssemblyInfoInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SumOfConsecutiveOddNumbers1_1071\SumOfConsecutiveOddNumbers1_1071\obj\Debug\net6.0\SumOfConsecutiveOddNumbers1_1071.AssemblyInfo.cs
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SumOfConsecutiveOddNumbers1_1071\SumOfConsecutiveOddNumbers1_1071\obj\Debug\net6.0\SumOfConsecutiveOddNumbers1_1071.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SumOfConsecutiveOddNumbers1_1071\SumOfConsecutiveOddNumbers1_1071\obj\Debug\net6.0\SumOfConsecutiveOddNumbers1_1071.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SumOfConsecutiveOddNumbers1_1071\SumOfConsecutiveOddNumbers1_1071\obj\Debug\net6.0\refint\SumOfConsecutiveOddNumbers1_1071.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SumOfConsecutiveOddNumbers1_1071\SumOfConsecutiveOddNumbers1_1071\obj\Debug\net6.0\SumOfConsecutiveOddNumbers1_1071.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SumOfConsecutiveOddNumbers1_1071\SumOfConsecutiveOddNumbers1_1071\obj\Debug\net6.0\SumOfConsecutiveOddNumbers1_1071.genruntimeconfig.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\SumOfConsecutiveOddNumbers1_1071\SumOfConsecutiveOddNumbers1_1071\obj\Debug\net6.0\ref\SumOfConsecutiveOddNumbers1_1071.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceOfNumbersAndSum_1101", "SequenceOfNumbersAndSum_1101\SequenceOfNumbersAndSum_1101.csproj", "{21EF8221-9A83-45E9-99A9-35047FCCA43A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21EF8221-9A83-45E9-99A9-35047FCCA43A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EF8221-9A83-45E9-99A9-35047FCCA43A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EF8221-9A83-45E9-99A9-35047FCCA43A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EF8221-9A83-45E9-99A9-35047FCCA43A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {236215E5-C251-4D04-BEC7-7B02088A3996}
+	EndGlobalSection
+EndGlobal

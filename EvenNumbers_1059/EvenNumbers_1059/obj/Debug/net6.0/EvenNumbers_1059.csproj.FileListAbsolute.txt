@@ -1,0 +1,15 @@
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\EvenNumbers_1059\EvenNumbers_1059\bin\Debug\net6.0\EvenNumbers_1059.exe
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\EvenNumbers_1059\EvenNumbers_1059\bin\Debug\net6.0\EvenNumbers_1059.deps.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\EvenNumbers_1059\EvenNumbers_1059\bin\Debug\net6.0\EvenNumbers_1059.runtimeconfig.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\EvenNumbers_1059\EvenNumbers_1059\bin\Debug\net6.0\EvenNumbers_1059.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\EvenNumbers_1059\EvenNumbers_1059\bin\Debug\net6.0\EvenNumbers_1059.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\EvenNumbers_1059\EvenNumbers_1059\obj\Debug\net6.0\EvenNumbers_1059.csproj.AssemblyReference.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\EvenNumbers_1059\EvenNumbers_1059\obj\Debug\net6.0\EvenNumbers_1059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\EvenNumbers_1059\EvenNumbers_1059\obj\Debug\net6.0\EvenNumbers_1059.AssemblyInfoInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\EvenNumbers_1059\EvenNumbers_1059\obj\Debug\net6.0\EvenNumbers_1059.AssemblyInfo.cs
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\EvenNumbers_1059\EvenNumbers_1059\obj\Debug\net6.0\EvenNumbers_1059.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\EvenNumbers_1059\EvenNumbers_1059\obj\Debug\net6.0\EvenNumbers_1059.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\EvenNumbers_1059\EvenNumbers_1059\obj\Debug\net6.0\refint\EvenNumbers_1059.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\EvenNumbers_1059\EvenNumbers_1059\obj\Debug\net6.0\EvenNumbers_1059.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\EvenNumbers_1059\EvenNumbers_1059\obj\Debug\net6.0\EvenNumbers_1059.genruntimeconfig.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\EvenNumbers_1059\EvenNumbers_1059\obj\Debug\net6.0\ref\EvenNumbers_1059.dll

@@ -1,0 +1,15 @@
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\XValue_2\XValue_2\bin\Debug\net6.0\XValue_2.exe
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\XValue_2\XValue_2\bin\Debug\net6.0\XValue_2.deps.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\XValue_2\XValue_2\bin\Debug\net6.0\XValue_2.runtimeconfig.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\XValue_2\XValue_2\bin\Debug\net6.0\XValue_2.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\XValue_2\XValue_2\bin\Debug\net6.0\XValue_2.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\XValue_2\XValue_2\obj\Debug\net6.0\XValue_2.csproj.AssemblyReference.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\XValue_2\XValue_2\obj\Debug\net6.0\XValue_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\XValue_2\XValue_2\obj\Debug\net6.0\XValue_2.AssemblyInfoInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\XValue_2\XValue_2\obj\Debug\net6.0\XValue_2.AssemblyInfo.cs
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\XValue_2\XValue_2\obj\Debug\net6.0\XValue_2.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\XValue_2\XValue_2\obj\Debug\net6.0\XValue_2.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\XValue_2\XValue_2\obj\Debug\net6.0\refint\XValue_2.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\XValue_2\XValue_2\obj\Debug\net6.0\XValue_2.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\XValue_2\XValue_2\obj\Debug\net6.0\XValue_2.genruntimeconfig.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\XValue_2\XValue_2\obj\Debug\net6.0\ref\XValue_2.dll

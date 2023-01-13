@@ -1,0 +1,15 @@
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Salary_1008\Salary_1008\bin\Debug\net6.0\Salary_1008.exe
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Salary_1008\Salary_1008\bin\Debug\net6.0\Salary_1008.deps.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Salary_1008\Salary_1008\bin\Debug\net6.0\Salary_1008.runtimeconfig.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Salary_1008\Salary_1008\bin\Debug\net6.0\Salary_1008.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Salary_1008\Salary_1008\bin\Debug\net6.0\Salary_1008.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Salary_1008\Salary_1008\obj\Debug\net6.0\Salary_1008.csproj.AssemblyReference.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Salary_1008\Salary_1008\obj\Debug\net6.0\Salary_1008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Salary_1008\Salary_1008\obj\Debug\net6.0\Salary_1008.AssemblyInfoInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Salary_1008\Salary_1008\obj\Debug\net6.0\Salary_1008.AssemblyInfo.cs
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Salary_1008\Salary_1008\obj\Debug\net6.0\Salary_1008.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Salary_1008\Salary_1008\obj\Debug\net6.0\Salary_1008.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Salary_1008\Salary_1008\obj\Debug\net6.0\refint\Salary_1008.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Salary_1008\Salary_1008\obj\Debug\net6.0\Salary_1008.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Salary_1008\Salary_1008\obj\Debug\net6.0\Salary_1008.genruntimeconfig.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\Salary_1008\Salary_1008\obj\Debug\net6.0\ref\Salary_1008.dll

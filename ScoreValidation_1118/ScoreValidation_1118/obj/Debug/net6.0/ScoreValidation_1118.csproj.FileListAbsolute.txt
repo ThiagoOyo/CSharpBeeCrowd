@@ -1,0 +1,15 @@
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\ScoreValidation_1118\ScoreValidation_1118\bin\Debug\net6.0\ScoreValidation_1118.exe
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\ScoreValidation_1118\ScoreValidation_1118\bin\Debug\net6.0\ScoreValidation_1118.deps.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\ScoreValidation_1118\ScoreValidation_1118\bin\Debug\net6.0\ScoreValidation_1118.runtimeconfig.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\ScoreValidation_1118\ScoreValidation_1118\bin\Debug\net6.0\ScoreValidation_1118.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\ScoreValidation_1118\ScoreValidation_1118\bin\Debug\net6.0\ScoreValidation_1118.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\ScoreValidation_1118\ScoreValidation_1118\obj\Debug\net6.0\ScoreValidation_1118.csproj.AssemblyReference.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\ScoreValidation_1118\ScoreValidation_1118\obj\Debug\net6.0\ScoreValidation_1118.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\ScoreValidation_1118\ScoreValidation_1118\obj\Debug\net6.0\ScoreValidation_1118.AssemblyInfoInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\ScoreValidation_1118\ScoreValidation_1118\obj\Debug\net6.0\ScoreValidation_1118.AssemblyInfo.cs
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\ScoreValidation_1118\ScoreValidation_1118\obj\Debug\net6.0\ScoreValidation_1118.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\ScoreValidation_1118\ScoreValidation_1118\obj\Debug\net6.0\ScoreValidation_1118.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\ScoreValidation_1118\ScoreValidation_1118\obj\Debug\net6.0\refint\ScoreValidation_1118.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\ScoreValidation_1118\ScoreValidation_1118\obj\Debug\net6.0\ScoreValidation_1118.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\ScoreValidation_1118\ScoreValidation_1118\obj\Debug\net6.0\ScoreValidation_1118.genruntimeconfig.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\ScoreValidation_1118\ScoreValidation_1118\obj\Debug\net6.0\ref\ScoreValidation_1118.dll

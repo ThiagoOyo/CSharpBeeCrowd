@@ -1,0 +1,15 @@
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\TimeConversion_1019\TimeConversion_1019\obj\Debug\net6.0\TimeConversion_1019.csproj.AssemblyReference.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\TimeConversion_1019\TimeConversion_1019\obj\Debug\net6.0\TimeConversion_1019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\TimeConversion_1019\TimeConversion_1019\obj\Debug\net6.0\TimeConversion_1019.AssemblyInfoInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\TimeConversion_1019\TimeConversion_1019\obj\Debug\net6.0\TimeConversion_1019.AssemblyInfo.cs
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\TimeConversion_1019\TimeConversion_1019\obj\Debug\net6.0\TimeConversion_1019.csproj.CoreCompileInputs.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\TimeConversion_1019\TimeConversion_1019\bin\Debug\net6.0\TimeConversion_1019.exe
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\TimeConversion_1019\TimeConversion_1019\bin\Debug\net6.0\TimeConversion_1019.deps.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\TimeConversion_1019\TimeConversion_1019\bin\Debug\net6.0\TimeConversion_1019.runtimeconfig.json
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\TimeConversion_1019\TimeConversion_1019\bin\Debug\net6.0\TimeConversion_1019.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\TimeConversion_1019\TimeConversion_1019\bin\Debug\net6.0\TimeConversion_1019.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\TimeConversion_1019\TimeConversion_1019\obj\Debug\net6.0\TimeConversion_1019.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\TimeConversion_1019\TimeConversion_1019\obj\Debug\net6.0\refint\TimeConversion_1019.dll
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\TimeConversion_1019\TimeConversion_1019\obj\Debug\net6.0\TimeConversion_1019.pdb
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\TimeConversion_1019\TimeConversion_1019\obj\Debug\net6.0\TimeConversion_1019.genruntimeconfig.cache
+C:\Users\Thiago Oyo\Desktop\Dev\SharpCoders\Exercícios\Beecrowd\TimeConversion_1019\TimeConversion_1019\obj\Debug\net6.0\ref\TimeConversion_1019.dll
